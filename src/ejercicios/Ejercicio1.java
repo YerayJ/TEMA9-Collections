@@ -5,7 +5,7 @@ import java.util.TreeSet;
 public class Ejercicio1 {
     public static void main(String[] args) {
         // Se define una lista
-        TreeSet<Integer> numeros = new TreeSet<Integer>();
+        TreeSet<Integer> numeros = new TreeSet<>();
 
         do {
             // Añade un número a la lista
